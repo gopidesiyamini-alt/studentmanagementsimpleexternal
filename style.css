@@ -5,25 +5,6 @@ body {
     background: #f2f2f2;
 }
 
-h2 {
-    color: blue;
-}
-
-form {
-    margin: 20px;
-}
-
-input, button {
-    padding: 10px;
-    margin: 5px;
-}
-
-button {
-    background: blue;
-    color: white;
-    border: none;
-    cursor: pointer;
-}
 
 li {
     margin: 10px;
