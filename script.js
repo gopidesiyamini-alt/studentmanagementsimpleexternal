@@ -1,3 +1,3 @@
 function addstudent(){
-    return alert("Student added successfully!");
+    return alert("Student registerred successfully!");
 }
